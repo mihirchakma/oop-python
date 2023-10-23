@@ -1,8 +1,8 @@
 # Object Oriented Programming in Python
 
-**Object-oriented programming (OOP)** in Python is a way of designing applications using objects and classes. Objects are self-contained entities that contain both data and behavior. Classes are blueprints for creating objects.
+**Object-oriented programming (OOP)** in Python is a way of designing applications using **objects** and **classes**. Objects are self-contained entities that contain both data and behavior. Classes are blueprints for creating objects.
 
-OOP is a powerful programming paradigm that can help you write more modular, reusable, and secure code. It is based on four core principles:
+OOP is a powerful programming paradigm that can help you write more modular, reusable, and secure code. It is based on **Four Core** principles:
 
 - **Encapsulation:** Encapsulation is the idea of wrapping data and the methods that work on data within one unit. This makes your code more secure and easier to maintain.
 
