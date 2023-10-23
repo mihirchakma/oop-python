@@ -12,6 +12,8 @@ OOP is a powerful programming paradigm that can help you write more modular, reu
 
 - **Abstraction:** Abstraction allows you to hide the internal implementation details of your objects and expose only the functionality that users need to know. This makes your code easier to understand and use.
 
+Here is a example of OOP in Python:
+
 ```python
 class Car:
     def __init__(self, make, model, year):
