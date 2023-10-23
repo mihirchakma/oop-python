@@ -33,3 +33,5 @@ my_car.stop()
 ```
 
 OOP is a powerful tool for developing complex and scalable applications in Python. By understanding the four core principles of OOP, you can write more modular, reusable, and secure code.
+
+- Reference: [OOP](https://www.freecodecamp.org/news/object-oriented-programming-in-python/)
