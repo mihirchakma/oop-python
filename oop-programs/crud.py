@@ -1,4 +1,4 @@
-# Python Program to Append, Delete and Display Elements of a List using Classes 
+# Append, Delete and Display Elements of a List using Classes 
 
 '''
 Problem Solution: 

@@ -1,3 +1,5 @@
+# Create a Class which Performs Basic Calculator Operations 
+
 """
 Problem Solution:
 
@@ -54,7 +56,7 @@ while choice != 0:
     else:
         print("Invalid choice!")
 
-print("---------------------")
+print("-------------------")
 
 """
 Program Explanation:
